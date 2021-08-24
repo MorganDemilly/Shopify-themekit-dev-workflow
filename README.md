@@ -70,6 +70,9 @@ gulp.task('watch', function() {
 - Minify CSS with [Gulp Clean](https://github.com/peter-vilja/gulp-clean)
 - Add CSS file to theme.liquid inside of the head
 
+## Set up Prepros
+- Install [Prepros](https://prepros.io/) in order to automatically synchronize and reload the theme
+
 ## Customizing Your Theme
 - [Theme development](https://shopify.dev/themes)
 - [Shopify Liquid](https://shopify.dev/docs/themes/liquid/reference)
