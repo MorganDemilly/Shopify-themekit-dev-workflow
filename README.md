@@ -71,10 +71,10 @@ gulp.task('watch', function() {
 - Add CSS file to theme.liquid inside of the head
 
 ## Customizing Your Theme
-- Edit Shopify Theme Code
+- [Theme development](https://shopify.dev/themes)
 - [Shopify Liquid](https://shopify.dev/docs/themes/liquid/reference)
-- Modifying a Section
-- Creating a new Section
 
 ## VS Code Extensions
-- VS Code Extensions for Shopify Development
+- [Liquid](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid)
+- [Shopify Liquid Template Snippets](https://marketplace.visualstudio.com/items?itemName=killalau.vscode-liquid-snippets)
+
