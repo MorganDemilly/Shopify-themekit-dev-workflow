@@ -70,8 +70,6 @@ gulp.task('watch', function() {
 - Minify CSS with [Gulp Clean](https://github.com/peter-vilja/gulp-clean)
 - Add CSS file to theme.liquid inside of the head
 
-![Liquid Stylesheet](https://github.com/uxhacks/shopify-tutorial/blob/master/tutorial/images/theme-liquid-gulpfile-js.png?raw=true "Adding Styles in Shopify Liquid")
-
 ## Customizing Your Theme
 - Edit Shopify Theme Code
 - [Shopify Liquid](https://shopify.dev/docs/themes/liquid/reference)
