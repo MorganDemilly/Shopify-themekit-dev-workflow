@@ -30,7 +30,7 @@ git push origin master
 - Install [Themekit](http://shopify.github.io/themekit)
 - Download Theme with Theme Kit (Terminal)
 ```terminal
-theme get -p=[your-password] -s=[your-store.myshopify.com] -t=[your-theme-id]
+theme get --password=[your-password] --store=[your-store.myshopify.com] --themeid=[your-theme-id]
 ```
 - Install [Node Wrapper for Theme Kit](https://www.npmjs.com/package/@shopify/themekit)
 ```curl
